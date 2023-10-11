@@ -6,7 +6,7 @@
 
 _Practice & Theory_
 
-🌐 **[Follow my Substack](https://casvanvliet.substack.com)** for **more guides**, **prompts** and **tools**.
+🌐 **[Follow my Substack](https://casvanvliet.substack.com):** **more guides**, **prompts** and **tools**.
 
 ## Prompt Engineer
 
