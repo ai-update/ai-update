@@ -27,9 +27,9 @@
 
 ### Other Resources:
 
-#### 📚 [A.I. Guides](https://github.com/cas-van-vliet/ai-guides)
-
 #### 🔧 [A.I Tools](https://github.com/cas-van-vliet/ai-tools)
+
+#### 📚 [A.I. Guides](https://github.com/cas-van-vliet/ai-guides)
 
 #### 📺 [A.I Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
 
