@@ -4,15 +4,11 @@
 
 ℹ️ [**I teach online courses**](https://www.volksuniversiteitamsterdam.nl/) on **artificial intelligence.** 
 
-_Practice & Theory_
-
 🌐 **[Follow my Substack](https://casvanvliet.substack.com):** **more guides**, **prompts** and **tools**.
 
 ## Prompt Engineer
 
 ℹ️ [**I design**](https://github.com/cas-van-vliet/chatgpt-prompts) & [**sell prompts**](https://prompthero.com/casvanvliet) for **GPT-3.5 and GPT-4**. 
-
-_Accurate & Factual_
 
 - 🤖 **[ChatGPT](https://chat.openai.com)**
 - 🤖 **[Bing Chat](https://bing.com/chat)**
@@ -33,7 +29,17 @@ _Accurate & Factual_
 
 #### 📺 [A.I. Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
 
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/d5ef2a47-d43b-466a-8c1f-b6df5dcc8913)
+## Webshops
+
+![aaaaa](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/a931dff8-5eb6-400e-b85f-5ef37fa3fdbf)
+
+### 🏪 [GumRoad](https://promptprophet.gumroad.com)
+
+### 🏪 [PromptAttack]
+
+### 🏪 [PromptBase](https://promptbase.com/promptprophet)
+
+### 🏪 [PromptIdeas](https://promptsideas.com/profile/casvanvliet)
 
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
