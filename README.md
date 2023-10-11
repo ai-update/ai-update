@@ -19,7 +19,7 @@
 
 ### Free Prompts:
 
-#### 📄 [ChatGPT-3.5 Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
+#### 📄 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
 
 #### 📄 [ChatGPT-4 Prompts](https://github.com/cas-van-vliet/chatgpt-4-prompts)
 
