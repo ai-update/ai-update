@@ -37,9 +37,9 @@
 
 ### 🏪 [PromptBase](https://promptbase.com/promptprophet)
 
-### 🏪 [PromptAttack](https://promptattack.com/casvanvliet)
-
 ### 🏪 [PromptIdeas](https://promptsideas.com/profile/casvanvliet)
+
+### 🏪 [PromptAttack](https://promptattack.com/casvanvliet)
 
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
