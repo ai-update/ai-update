@@ -2,7 +2,7 @@
 
 ## Teacher
 
-ℹ️ I teach [**online courses**](https://www.volksuniversiteitamsterdam.nl/) on **artificial intelligence.** 
+ℹ️ [**I teach online courses**](https://www.volksuniversiteitamsterdam.nl/) on **artificial intelligence.** 
 
 _Practice & Theory_
 
