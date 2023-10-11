@@ -1,12 +1,12 @@
-# ℹ️ Your guide on **Artificial Intelligence**.
+# ℹ️ Your Guide on **A.I.**.
 
 ## Teacher
 
-ℹ️ I teach [**online courses**](https://www.volksuniversiteitamsterdam.nl/) on (generative) **A.I.** 
+ℹ️ I teach [**online courses**](https://www.volksuniversiteitamsterdam.nl/) on (generative) **artificial intelligence.** 
 
 *practical & theoretical classes*
 
-**[Follow my Substack](https://casvanvliet.substack.com)** for guides, prompts, and tips & tricks on A.I. 
+**[Follow my Substack](https://casvanvliet.substack.com)** for guides, prompts, and tips & tricks on **A.I.**. 
 
 ## Prompt Engineer
 
