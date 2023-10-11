@@ -4,7 +4,7 @@
 
 ℹ️ I teach [**online courses**](https://www.volksuniversiteitamsterdam.nl/) on **artificial intelligence.** 
 
-*practical & theoretical*
+_Practice & Theory_
 
 🌐 **[Follow my Substack](https://casvanvliet.substack.com)** for **more guides** & **prompts**.
 
@@ -12,7 +12,7 @@
 
 ℹ️ [**I design**](https://github.com/cas-van-vliet/chatgpt-prompts) & [**sell prompts**](https://prompthero.com/casvanvliet) for **GPT-3.5 and GPT-4**. 
 
-*high-quality & accurate*
+_Accurate & Factual_
 
 - 🤖 **ChatGPT**
 - 🤖 **Bing Chat**
