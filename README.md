@@ -4,11 +4,11 @@ Your guide on everything related to **Artificial Intelligence (A.I.)**.
 
 ## Teacher
 
-### [Substack](https://casvanvliet.substack.com)
-
 I teach [**online courses**](https://www.volksuniversiteitamsterdam.nl/) on (generative) **A.I.**
 
 They consist of **practical & theoretical classes**.
+
+**[Follow my Substack](https://casvanvliet.substack.com)** for guides, prompts, and tips & tricks on A.I. 
 
 ## Prompt Engineer
 
