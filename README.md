@@ -12,7 +12,7 @@ They consist of **practical & theoretical classes**.
 
 ## Prompt Engineer
 
-[**I design**](https://github.com/cas-van-vliet/chatgpt-prompts) [**& sell**](https://prompthero.com/casvanvliet) **prompts** for **GPT-3.5, and GPT-4:** 
+[**I design**](https://github.com/cas-van-vliet/chatgpt-prompts) & [**sell prompts**](https://prompthero.com/casvanvliet) for **GPT-3.5, and GPT-4:** 
 
 - ChatGPT
 - Bing Chat
