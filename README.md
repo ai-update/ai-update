@@ -35,9 +35,9 @@
 
 ### 🏪 [GumRoad](https://promptprophet.gumroad.com)
 
-### 🏪 [PromptAttack]
-
 ### 🏪 [PromptBase](https://promptbase.com/promptprophet)
+
+### 🏪 [PromptAttack](https://promptattack.com/casvanvliet)
 
 ### 🏪 [PromptIdeas](https://promptsideas.com/profile/casvanvliet)
 
