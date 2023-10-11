@@ -31,8 +31,6 @@
 
 ## Webshops
 
-![aaaaa](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/a931dff8-5eb6-400e-b85f-5ef37fa3fdbf)
-
 ### 🏪 [GumRoad](https://promptprophet.gumroad.com)
 
 ### 🏪 [PromptBase](https://promptbase.com/promptprophet)
@@ -40,6 +38,8 @@
 ### 🏪 [PromptIdeas](https://promptsideas.com/profile/casvanvliet)
 
 ### 🏪 [PromptAttack](https://promptattack.com/casvanvliet)
+
+![aaaaa](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/a931dff8-5eb6-400e-b85f-5ef37fa3fdbf)
 
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
