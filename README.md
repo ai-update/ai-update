@@ -17,7 +17,7 @@
 - 🤖 **ChatGPT**
 - 🤖 **Bing Chat**
 
-### Free Prompts
+### Free Prompts:
 
 #### 📄 [ChatGPT-3.5 Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
 
