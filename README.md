@@ -1,4 +1,4 @@
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/6656473c-724f-4460-9b4a-3e8e55fab244)
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/59db979e-2c3a-45c8-8ddc-2dbdbf970ba3)
 
 # Your Guide on **A.I.**
 
