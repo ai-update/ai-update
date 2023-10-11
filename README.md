@@ -14,8 +14,8 @@
 
 *high-quality & accurate results*
 
-- 🤖 ChatGPT
-- 🤖 Bing Chat
+- 🤖 **ChatGPT**
+- 🤖 **Bing Chat**
 
 ### Free Prompts
 
