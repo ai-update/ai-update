@@ -31,7 +31,7 @@
 
 #### 🔧 [Artificial Intelligence Tools](https://github.com/cas-van-vliet/ai-tools)
 
-#### 📺 [Artificial Intelligence Documentaries(https://github.com/cas-van-vliet/ai-documentaries)
+#### 📺 [Artificial Intelligence Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
 
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
