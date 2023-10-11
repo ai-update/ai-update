@@ -33,6 +33,8 @@ _Accurate & Factual_
 
 #### 📺 [A.I. Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
 
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/d5ef2a47-d43b-466a-8c1f-b6df5dcc8913)
+
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
