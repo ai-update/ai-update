@@ -19,13 +19,13 @@ They consist of **practical & theoretical classes**.
 
 My prompts generate **high-quality content** & **accurate results**.
 
-## Free Prompts
+### Free Prompts
 
-### [ChatGPT-3.5 Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
+#### [ChatGPT-3.5 Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
 
-### [ChatGPT-4 Prompts](https://github.com/cas-van-vliet/chatgpt-4-prompts)
+#### [ChatGPT-4 Prompts](https://github.com/cas-van-vliet/chatgpt-4-prompts)
 
-### [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
+#### [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
 
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
