@@ -19,11 +19,11 @@ _Accurate & Factual_
 
 ### Free Prompts:
 
-#### 📄 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
+#### 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
 
-#### 📄 [ChatGPT-4 Prompts](https://github.com/cas-van-vliet/chatgpt-4-prompts)
+#### 💬 [ChatGPT-4 Prompts](https://github.com/cas-van-vliet/chatgpt-4-prompts)
 
-#### 📄 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
+#### 💬 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
 
 ### Other Resources:
 
