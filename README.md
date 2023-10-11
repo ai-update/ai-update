@@ -1,6 +1,4 @@
-# Cas van Vliet
-
-ℹ️ Your guide on **Artificial Intelligence (A.I.)**.
+# ℹ️ Your guide on **Artificial Intelligence**.
 
 ## Teacher
 
