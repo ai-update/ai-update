@@ -25,6 +25,14 @@
 
 #### 📄 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
 
+### Other Resources:
+
+#### 📚 [Artificial Intelligence Guides](https://github.com/cas-van-vliet/ai-guides)
+
+#### 🔧 [Artificial Intelligence Tools](https://github.com/cas-van-vliet/ai-tools)
+
+#### 📺 [Artificial Intelligence Documentaries(https://github.com/cas-van-vliet/ai-documentaries)
+
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
