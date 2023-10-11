@@ -1,3 +1,5 @@
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/1f99acda-2cd7-4d89-8fad-a39fba2d87da)
+
 # Your Guide on **A.I.**
 
 ## Teacher
