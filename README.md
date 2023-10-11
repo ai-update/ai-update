@@ -14,8 +14,8 @@ _Practice & Theory_
 
 _Accurate & Factual_
 
-- 🤖 **ChatGPT**
-- 🤖 **Bing Chat**
+- 🤖 **[ChatGPT](https://chat.openai.com)**
+- 🤖 **[Bing Chat](https://bing.com/chat)**
 
 ### Free Prompts:
 
