@@ -14,10 +14,10 @@
 
 ℹ️ [**I design**](https://github.com/cas-van-vliet/chatgpt-prompts) & [**sell prompts**](https://prompthero.com/casvanvliet) for **GPT-3.5 and GPT-4:** 
 
+*high-quality content** & **accurate results*
+
 - 🤖 ChatGPT
 - 🤖 Bing Chat
-
-My prompts generate **high-quality content** & **accurate results**.
 
 ### Free Prompts
 
