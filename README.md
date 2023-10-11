@@ -27,11 +27,11 @@
 
 ### Other Resources:
 
-#### 📚 [Artificial Intelligence Guides](https://github.com/cas-van-vliet/ai-guides)
+#### 📚 [A.I. Guides](https://github.com/cas-van-vliet/ai-guides)
 
-#### 🔧 [Artificial Intelligence Tools](https://github.com/cas-van-vliet/ai-tools)
+#### 🔧 [A.I Tools](https://github.com/cas-van-vliet/ai-tools)
 
-#### 📺 [Artificial Intelligence Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
+#### 📺 [A.I Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
 
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
