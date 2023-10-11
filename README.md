@@ -1,4 +1,4 @@
-# ℹ️ Your Guide on **A.I.**.
+# ℹ️ Your Guide on **A.I.**
 
 ## Teacher
 
