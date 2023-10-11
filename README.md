@@ -6,7 +6,7 @@
 
 *practical & theoretical classes*
 
-**[Follow my Substack](https://casvanvliet.substack.com)** for guides, prompts, and tips & tricks on **A.I.**. 
+**[Follow my Substack](https://casvanvliet.substack.com)** for more tips & tricks, guides and prompts.
 
 ## Prompt Engineer
 
