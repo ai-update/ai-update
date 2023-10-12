@@ -1,5 +1,3 @@
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/0af8d04f-2dc7-40ef-9285-dd5feb6fc5c8)
-
 # Your Guide on Artificial Intelligence
 
 ## Teacher
@@ -47,7 +45,7 @@
 
 #### 🏪 [PromptAttack](https://promptattack.com/casvanvliet)
 
-![aaaaa](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/a931dff8-5eb6-400e-b85f-5ef37fa3fdbf)
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/0af8d04f-2dc7-40ef-9285-dd5feb6fc5c8)
 
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
