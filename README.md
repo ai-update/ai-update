@@ -12,9 +12,9 @@
 
 ℹ️ [**I design**](https://github.com/cas-van-vliet/chatgpt-prompts) & [**sell prompts**](https://prompthero.com/casvanvliet) for GPT-3.5 and GPT-4:
 
-🤖 **[ChatGPT](https://chat.openai.com)**
+> 🤖 **[ChatGPT](https://chat.openai.com)**
 
-🤖 **[Bing Chat](https://bing.com/chat)**
+> 🤖 **[Bing Chat](https://bing.com/chat)**
 
 ### Free Prompts:
 
