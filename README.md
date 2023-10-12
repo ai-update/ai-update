@@ -1,4 +1,4 @@
-# Your Guide on **A.I.**
+# Your Guide on Artificial Intelligence
 
 ## Teacher
 
