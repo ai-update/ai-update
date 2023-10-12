@@ -6,7 +6,9 @@
 
 ℹ️ [**I teach online courses**](https://www.volksuniversiteitamsterdam.nl/) on **artificial intelligence.** 
 
-🌐 **[Follow my Substack](https://casvanvliet.substack.com):** **more guides**, **prompts** and **tools**.
+🌐 **[Follow my Substack](https://casvanvliet.substack.com)** 
+
+> **more guides**, **prompts** & **tools**.
 
 ## Prompt Engineer
 
