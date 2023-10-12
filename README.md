@@ -1,6 +1,6 @@
 # All About Artificial Intelligence (AI)
 
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/0af8d04f-2dc7-40ef-9285-dd5feb6fc5c8)
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/690e2a16-6345-4da1-9769-7282c791b3c6)
 
 ## Teacher
 
