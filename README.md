@@ -29,7 +29,10 @@
 
 #### 📚 [A.I. Guides](https://github.com/cas-van-vliet/ai-guides)
 
+#### 📰 [A.I. News](https://github.com/cas-van-vliet/ai-news)
+
 #### 📺 [A.I. Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
+
 
 ## Webshops
 
