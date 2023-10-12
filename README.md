@@ -23,7 +23,7 @@
 
 #### 💬 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
 
-### Other Resources:
+## Other Resources
 
 #### 🔧 [A.I. Tools](https://github.com/cas-van-vliet/ai-tools)
 
