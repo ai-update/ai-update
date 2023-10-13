@@ -1,4 +1,4 @@
-# All about Artificial Intelligence (AI)
+# All about AI
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/e648b8b6-5c0b-4a01-9e5c-420e260aa58a)
 
