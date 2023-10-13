@@ -1,4 +1,4 @@
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/76ccfa0c-2da0-4086-a758-cb3e64d219fa)# ALL about AI
+# ALL about AI
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/3dd31fae-6c77-47f9-93ee-85e59bb23d83)
 
