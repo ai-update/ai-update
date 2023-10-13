@@ -1,6 +1,6 @@
 # ALL about AI
 
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/e648b8b6-5c0b-4a01-9e5c-420e260aa58a)
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/3dd31fae-6c77-47f9-93ee-85e59bb23d83)
 
 ## Teacher
 
