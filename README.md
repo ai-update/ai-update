@@ -8,7 +8,7 @@
 
 🌐 **[Follow my Substack](https://casvanvliet.substack.com)** 
 
-> **Prompts**, **Guides** & **Tools**.
+> _Prompts, Guides & Tools_
 
 ## Prompt Engineer
 
