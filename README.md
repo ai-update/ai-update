@@ -1,14 +1,14 @@
-# All about AI
+# ALL about AI
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/e648b8b6-5c0b-4a01-9e5c-420e260aa58a)
 
 ## Teacher
 
-ℹ️ [**I teach online courses**](https://www.volksuniversiteitamsterdam.nl/) on **A.I.** 
+ℹ️ [**I teach Online Courses**](https://www.volksuniversiteitamsterdam.nl/) on **Artificial Intelligence** (A.I.)
 
 🌐 **[Follow my Substack](https://casvanvliet.substack.com)** 
 
-> **more guides**, **prompts** & **tools**.
+> **Prompts**, Guides** & **Tools**.
 
 ## Prompt Engineer
 
