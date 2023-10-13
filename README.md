@@ -1,4 +1,4 @@
-# ALL about AI
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/76ccfa0c-2da0-4086-a758-cb3e64d219fa)# ALL about AI
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/3dd31fae-6c77-47f9-93ee-85e59bb23d83)
 
@@ -46,6 +46,8 @@
 #### 🏪 [PromptIdeas](https://promptsideas.com/profile/casvanvliet)
 
 #### 🏪 [PromptAttack](https://promptattack.com/casvanvliet)
+
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/76e39dd2-91b0-44ec-96db-0f2fb138b2d8)
 
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
