@@ -1,5 +1,3 @@
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/66607144-cd8d-4fac-ba39-8107eea6e233)
-
 # Free Prompts
 
 ## 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
@@ -27,6 +25,8 @@
 ## 🏪 [PromptIdeas](https://promptsideas.com/profile/casvanvliet)
 
 ## 🏪 [PromptAttack](https://promptattack.com/casvanvliet)
+
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/38325cdc-0d6b-4066-b4f1-c78aa8c40a75)
 
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
