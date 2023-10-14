@@ -1,6 +1,6 @@
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/e72633ef-1f18-4176-af76-4224c1ca5dd6)
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/66607144-cd8d-4fac-ba39-8107eea6e233)
 
-## Teacher
+# Teacher
 
 ℹ️ [**I teach Online Courses**](https://www.volksuniversiteitamsterdam.nl/) on **Artificial Intelligence** (A.I.)
 
@@ -8,7 +8,7 @@
 
 > _Prompts, Guides & Tools_
 
-## Prompt Engineer
+# Prompt Engineer
 
 ℹ️ [**I design**](https://github.com/cas-van-vliet/chatgpt-prompts) & [**sell prompts**](https://prompthero.com/casvanvliet) for GPT-3.5 and GPT-4:
 
@@ -16,7 +16,7 @@
 
 > 🤖 **[Bing Chat](https://bing.com/chat)**
 
-### Free Prompts:
+## Free Prompts:
 
 #### 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
 
@@ -26,24 +26,23 @@
 
 ## Other Resources
 
-#### 📰 [A.I. News](https://github.com/cas-van-vliet/ai-news)
+### 📰 [A.I. News](https://github.com/cas-van-vliet/ai-news)
 
-#### 🔧 [A.I. Tools](https://github.com/cas-van-vliet/ai-tools)
+### 🔧 [A.I. Tools](https://github.com/cas-van-vliet/ai-tools)
 
-#### 📚 [A.I. Guides](https://github.com/cas-van-vliet/ai-guides)
+### 📚 [A.I. Guides](https://github.com/cas-van-vliet/ai-guides)
 
-#### 📺 [A.I. Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
+### 📺 [A.I. Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
 
+# Webshops
 
-## Webshops
+## 🏪 [GumRoad](https://promptprophet.gumroad.com)
 
-#### 🏪 [GumRoad](https://promptprophet.gumroad.com)
+## 🏪 [PromptBase](https://promptbase.com/promptprophet)
 
-#### 🏪 [PromptBase](https://promptbase.com/promptprophet)
+## 🏪 [PromptIdeas](https://promptsideas.com/profile/casvanvliet)
 
-#### 🏪 [PromptIdeas](https://promptsideas.com/profile/casvanvliet)
-
-#### 🏪 [PromptAttack](https://promptattack.com/casvanvliet)
+## 🏪 [PromptAttack](https://promptattack.com/casvanvliet)
 
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
