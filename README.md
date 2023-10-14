@@ -1,5 +1,5 @@
 # ALL about AI
-## Free Prompts
+## Prompts
 
 ### 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
 
@@ -7,7 +7,7 @@
 
 ### 💬 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
 
-## Other Resources
+## Resources
 
 ### 📰 [A.I. News](https://github.com/cas-van-vliet/ai-news)
 
