@@ -47,8 +47,6 @@
 
 #### 🏪 [PromptAttack](https://promptattack.com/casvanvliet)
 
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/76e39dd2-91b0-44ec-96db-0f2fb138b2d8)
-
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
