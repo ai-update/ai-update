@@ -6,6 +6,8 @@
 
 ## 💬 [ChatGPT-4 Prompts](https://github.com/cas-van-vliet/chatgpt-4-prompts)
 
+![Screenshot from 2023-10-15 05-00-25](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/8c3399d2-1ce7-40c5-9a8b-c32f4a2b99e3)
+
 ## 💬 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
 
 # Resources
