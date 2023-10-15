@@ -10,7 +10,7 @@
 
 # Resources
 
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/cb3cc652-3545-4ac9-8b7e-44b10f6e74ba)
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/a4e58b6e-88dc-4f83-a339-92f913f66836)
 
 ## 📰 [A.I. News](https://github.com/cas-van-vliet/ai-news)
 
