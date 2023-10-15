@@ -20,6 +20,8 @@
 
 ## 📺 [A.I. Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
 
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/5e375c8c-e8e3-4d62-b598-db8a8cbdb494)
+
 # Webshops
 
 ## 🏪 [GumRoad](https://promptprophet.gumroad.com)
