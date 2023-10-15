@@ -4,13 +4,13 @@
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/f69f13fe-c852-4561-b7df-62d3acf06f60)
 
-### 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
+## 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/28be25ec-67c9-409c-bb85-c72a38bf99f7)
 
-### 💬 [ChatGPT-4 Prompts](https://github.com/cas-van-vliet/chatgpt-4-prompts)
+## 💬 [ChatGPT-4 Prompts](https://github.com/cas-van-vliet/chatgpt-4-prompts)
 
-### 💬 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
+## 💬 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
 
 # Resources
 
