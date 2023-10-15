@@ -1,10 +1,8 @@
 # ALL about AI
 
-
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/80fd0865-26af-455a-96d2-1a1aabfdde6b)
 
 # Prompts
-
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/b0a04303-6546-4818-b43f-648fa638d321)
 
 ## 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
 
