@@ -8,9 +8,9 @@
 
 ## 💬 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
 
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/cb3cc652-3545-4ac9-8b7e-44b10f6e74ba)
-
 # Resources
+
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/cb3cc652-3545-4ac9-8b7e-44b10f6e74ba)
 
 ## 📰 [A.I. News](https://github.com/cas-van-vliet/ai-news)
 
@@ -20,9 +20,9 @@
 
 ## 📺 [A.I. Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
 
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/5e375c8c-e8e3-4d62-b598-db8a8cbdb494)
-
 # Webshops
+
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/5e375c8c-e8e3-4d62-b598-db8a8cbdb494)
 
 ## 🏪 [GumRoad](https://promptprophet.gumroad.com)
 
