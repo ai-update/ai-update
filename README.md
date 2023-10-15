@@ -1,14 +1,10 @@
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/8927a587-8e32-4a6a-a545-44b3f1536226)
+# ALL about AI
 
 # Prompts
-
-## GPT-3
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/f69f13fe-c852-4561-b7df-62d3acf06f60)
 
 ### 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
-
-## GPT-4
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/28be25ec-67c9-409c-bb85-c72a38bf99f7)
 
