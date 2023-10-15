@@ -14,11 +14,9 @@
 
 # Resources
 
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/c1b77c57-c90a-416e-a8fd-fedf1d705bff)
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/cb3cc652-3545-4ac9-8b7e-44b10f6e74ba)
 
 ## 📰 [A.I. News](https://github.com/cas-van-vliet/ai-news)
-
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/cb3cc652-3545-4ac9-8b7e-44b10f6e74ba)
 
 ## 🔧 [A.I. Tools](https://github.com/cas-van-vliet/ai-tools)
 
