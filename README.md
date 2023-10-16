@@ -2,6 +2,8 @@
 
 # Prompts
 
+Free prompts for GPT-3 & GPT-4:
+
 ## 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
 
 ## 💬 [ChatGPT-4 Prompts](https://github.com/cas-van-vliet/chatgpt-4-prompts)
@@ -9,6 +11,8 @@
 ## 💬 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
 
 # Resources
+
+Stay up-to-date with these A.I. resources:
 
 ## 📰 [A.I. News](https://github.com/cas-van-vliet/ai-news)
 
@@ -21,6 +25,8 @@
 # Webshops
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/5e375c8c-e8e3-4d62-b598-db8a8cbdb494)
+
+Buy collections of advanced (custom) prompts:
 
 ## 🏪 [GumRoad](https://promptprophet.gumroad.com)
 
