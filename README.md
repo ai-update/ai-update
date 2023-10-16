@@ -12,7 +12,7 @@ Free prompts for GPT-3 & GPT-4:
 
 # Resources
 
-Stay up-to-date with these A.I. resources:
+Free resources for AI:
 
 ## 📰 [A.I. News](https://github.com/cas-van-vliet/ai-news)
 
@@ -26,7 +26,7 @@ Stay up-to-date with these A.I. resources:
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/5e375c8c-e8e3-4d62-b598-db8a8cbdb494)
 
-Buy collections of advanced (custom) prompts:
+Buy more (custom) prompts:
 
 ## 🏪 [GumRoad](https://promptprophet.gumroad.com)
 
