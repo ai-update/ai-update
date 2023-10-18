@@ -34,11 +34,11 @@ Buy more (custom) prompts:
 
 ## 🏪 [PromptIdeas](https://promptsideas.com/profile/casvanvliet)
 
-## Example:
+### 💲 Example:
+
+#### Instagram Post Planner
 
 ![Screenshot from 2023-10-18 00-25-07](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/e39a254c-25b8-44f9-99be-73010c40f7d9)
-
-![Screenshot from 2023-10-17 23-39-54](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/4817f4fc-a7b8-4d8e-97e1-2e7e2308a3cd)
 
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
