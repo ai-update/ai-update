@@ -40,6 +40,8 @@ Buy more (custom) prompts:
 
 **Price:** 0.99
 
+Generate Montly Post Schedules for Instagram:
+
 ![Screenshot from 2023-10-18 00-25-07](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/e39a254c-25b8-44f9-99be-73010c40f7d9)
 
 <!---
