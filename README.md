@@ -34,9 +34,9 @@ Buy more (custom) prompts:
 
 ## 🏪 [PromptIdeas](https://promptsideas.com/profile/casvanvliet)
 
-### 💲 Example:
+## 💲 Example:
 
-#### Instagram Post Planner
+### Instagram Post Planner
 
 **Price:** 0.99
 
