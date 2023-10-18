@@ -36,14 +36,6 @@ Buy more (custom) prompts:
 
 ## 💲 Examples:
 
-### Instagram Advertisement Generator
-
-**Price:** 0.99
-
-_Generate Copy for Advertisements on Instagram:_
-
-![Screenshot from 2023-10-17 23-39-54](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/7035e5c6-824e-41dd-b950-cc272b7242f2)
-
 ### Instagram Post Planner
 
 **Price:** 0.99
@@ -51,6 +43,14 @@ _Generate Copy for Advertisements on Instagram:_
 _Generate Montly Post Schedules for Instagram:_
 
 ![Screenshot from 2023-10-18 00-25-07](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/e39a254c-25b8-44f9-99be-73010c40f7d9)
+
+### Instagram Advertisement Generator
+
+**Price:** 0.99
+
+_Generate Copy for Advertisements on Instagram:_
+
+![Screenshot from 2023-10-17 23-39-54](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/7035e5c6-824e-41dd-b950-cc272b7242f2)
 
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
