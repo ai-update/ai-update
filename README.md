@@ -36,13 +36,13 @@ Buy more (custom) prompts:
 
 ## 💲 Examples:
 
-### 📸 [Instagram Ad Generator](https://promptsideas.com/prompt/instagram-advertisement-generator)
+### 📸 [Instagram Ad Generator](https://promptprince.gumroad.com/l/instagram-advertisement-generator)
 
 Generate Advertisements for Instagram:
 
 **$0.99**
 
-_Also available on [PromptIdeas](https://promptprince.gumroad.com/l/instagram-ad-generator)_
+_Also available on [PromptIdeas](https://promptsideas.com/prompt/instagram-advertisement-generator)_
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/8f9ee07d-0df2-4d41-a283-0a4e804dee27)
 
