@@ -48,7 +48,7 @@ _Also available on [PromptIdeas](https://promptprince.gumroad.com/l/instagram-ad
 
 ### 📸 [Instagram Post Planner](https://promptprince.gumroad.com/l/instagram-post-planner)
 
-Generate Monthly Post Schedules for Instagram:
+Generate Post Schedules for Instagram:
 
 **$0.99**
 
