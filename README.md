@@ -38,17 +38,19 @@ Buy more (custom) prompts:
 
 ### 📸 [Instagram Ad Generator](https://promptsideas.com/prompt/instagram-advertisement-generator)
 
-**Price:** 0.99
+Price: 0.99
 
 _Generate Advertisements for Instagram:_
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/8f9ee07d-0df2-4d41-a283-0a4e804dee27)
 
-### 📸 [Instagram Post Planner](https://promptsideas.com/prompt/instagram-post-planner)
+### 📸 [Instagram Post Planner](https://promptprince.gumroad.com/l/instagram-post-planner)
+
+_Generate Monthly Post Schedules for Instagram:_
 
 **Price:** 0.99
 
-_Generate Monthly Post Schedules for Instagram:_
+_Also available on [PromptIdeas](https://promptsideas.com/prompt/instagram-post-planner)_
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/0b5945b3-29cb-4685-9692-b592c2bfd16b)
 
