@@ -28,7 +28,7 @@ Free resources for AI:
 
 Buy more (custom) prompts:
 
-## 🏪 [GumRoad](https://promptprophet.gumroad.com)
+## 🏪 [GumRoad](https://promptprince.gumroad.com)
 
 ## 🏪 [PromptBase](https://promptbase.com/promptprophet)
 
