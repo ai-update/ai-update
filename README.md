@@ -32,7 +32,7 @@ Buy more (custom) prompts:
 
 ## 🏪 [PromptBase](https://promptbase.com/promptprophet)
 
-## 🏪 [PromptIdeas](https://promptsideas.com/profile/casvanvliet)
+## 🏪 [PromptsIdeas](https://promptsideas.com/profile/casvanvliet)
 
 ## 💲 Examples:
 
@@ -42,7 +42,7 @@ Generate Advertisements for Instagram:
 
 **$0.99**
 
-_Also available on [PromptIdeas](https://promptsideas.com/prompt/instagram-advertisement-generator)_
+_Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-advertisement-generator)_
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/8f9ee07d-0df2-4d41-a283-0a4e804dee27)
 
@@ -52,7 +52,7 @@ Generate Post Schedules for Instagram:
 
 **$0.99**
 
-_Also available on [PromptIdeas](https://promptsideas.com/prompt/instagram-post-planner)_
+_Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-post-planner)_
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/0b5945b3-29cb-4685-9692-b592c2bfd16b)
 
@@ -62,7 +62,7 @@ Insights on any topic:
 
 **0.99**
 
-_Also available on [PromptIdeas](https://promptsideas.com/prompt/research-assistant)
+_Also available on [PromptsIdeas](https://promptsideas.com/prompt/research-assistant)_
 
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
