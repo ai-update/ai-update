@@ -56,14 +56,6 @@ Generate Post Schedules for Instagram:
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/0b5945b3-29cb-4685-9692-b592c2bfd16b)
 
-### 🔎 [Research Assistant](https://promptfast.gumroad.com/l/research-assistant)
-
-Insights on any topic:
-
-**0.99**
-
-> _Also available on [PromptsIdeas](https://promptsideas.com/prompt/research-assistant)_
-
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
