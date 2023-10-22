@@ -28,11 +28,11 @@ Free resources for AI:
 
 Buy more (custom) prompts:
 
-## 🏪 [GumRoad](https://promptprince.gumroad.com)
+## 🏪 [GumRoad](https://promptfast.gumroad.com)
 
 ## 🏪 [PromptBase](https://promptbase.com/promptprophet)
 
-## 🏪 [PromptsIdeas](https://promptsideas.com/profile/casvanvliet)
+## 🏪 [PromptsIdeas](https://promptsideas.com/profile/promptfast)
 
 ## 💲 Examples:
 
