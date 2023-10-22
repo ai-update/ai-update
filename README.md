@@ -36,7 +36,7 @@ Buy more (custom) prompts:
 
 ## 💲 Examples:
 
-### 📸 [Instagram Ad Generator](https://promptprince.gumroad.com/l/instagram-advertisement-generator)
+### 📸 [Instagram Ad Generator](https://promptfast.gumroad.com/l/instagram-advertisement-generator)
 
 Generate Advertisements for Instagram:
 
@@ -46,7 +46,7 @@ _Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-adve
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/8f9ee07d-0df2-4d41-a283-0a4e804dee27)
 
-### 📸 [Instagram Post Planner](https://promptprince.gumroad.com/l/instagram-post-planner)
+### 📸 [Instagram Post Planner](https://promptfast.gumroad.com/l/instagram-post-planner)
 
 Generate Post Schedules for Instagram:
 
@@ -56,7 +56,7 @@ _Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-post
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/0b5945b3-29cb-4685-9692-b592c2bfd16b)
 
-### 🔎 [Research Assistant](https://promptprince.gumroad.com/l/research-assistant)
+### 🔎 [Research Assistant](https://promptfast.gumroad.com/l/research-assistant)
 
 Insights on any topic:
 
