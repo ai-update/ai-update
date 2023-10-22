@@ -22,9 +22,7 @@ Free resources for AI:
 
 ## 📺 [A.I. Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
 
-# Webshops
-
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/5e375c8c-e8e3-4d62-b598-db8a8cbdb494)
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/6cbe0452-11a5-4881-a5e3-e7ae733f3e5c)
 
 Buy more (custom) prompts:
 
