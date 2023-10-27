@@ -18,7 +18,7 @@ Free prompts for GPT-3 & GPT-4:
 
 ## 💬 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
 
-[More Free Prompts for ChatGPT](https://promptfast.gumroad.com/p/free-chatgpt-prompt-name)
+> [More Free Prompts for ChatGPT](https://promptfast.gumroad.com/p/free-chatgpt-prompt-name)
 
 # Resources
 
