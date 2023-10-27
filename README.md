@@ -4,9 +4,9 @@
 
 Platforms to follow:
 
-## 🐦 [Twitter / X](https://twitter.com/promptfast) 
+## 🐦 [Twitter](https://twitter.com/promptfast) / [X](https://twitter.com/promptfast)
 
-## 🦣 [Mastodon](https://infosec.exchange)
+## 🦣 [Mastodon](https://infosec.exchange/casvanvliet)
 
 # Prompts
 
