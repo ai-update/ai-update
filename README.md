@@ -1,10 +1,10 @@
-# Socials
+# Social Media
 
-Platforms to follow my work:
+Platforms to follow:
 
 ## 🐦 [Twitter](https://twitter.com/promptfast) 
 
-## 🦣 [Mastodon](https://infosec.exchange/cas-van-vliet)
+## 🦣 [Mastodon](https://infosec.exchange)
 
 # Prompts
 
