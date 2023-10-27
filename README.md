@@ -4,7 +4,7 @@
 
 Platforms to follow:
 
-## 🐦 [Twitter](https://twitter.com/promptfast) 
+## 🐦 [Twitter / X](https://twitter.com/promptfast) 
 
 ## 🦣 [Mastodon](https://infosec.exchange)
 
