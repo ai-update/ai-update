@@ -1,3 +1,11 @@
+# Socials
+
+Platforms to follow my work:
+
+## 🐦 [Twitter](https://twitter.com/promptfast) 
+
+## 🦣 [Mastodon](https://infosec.exchange/cas-van-vliet)
+
 # Prompts
 
 Free prompts for GPT-3 & GPT-4:
