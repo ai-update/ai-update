@@ -46,7 +46,7 @@ Buy more (custom) prompts:
 
 ## 🏪 [PromptsIdeas](https://promptsideas.com/profile/promptfast)
 
-## 💲 Examples:
+## Examples:
 
 ### 📸 [Instagram Ad Generator](https://promptfast.gumroad.com/l/instagram-advertisement-generator)
 
