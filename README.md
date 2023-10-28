@@ -38,13 +38,11 @@ Free resources for AI:
 
 Buy more (custom) prompts:
 
-## 🏪 [GumRoad](https://promptfast.gumroad.com)
+## 🏪 [GumRoad](https://promptfast.gumroad.com) | [PromptFast](https://promptfast.gumroad.com)
 
 > 💵 _[Become an Affiliate Partner](https://promptfast.gumroad.com/affiliates)_
 
-## 🏪 [PromptBase](https://promptbase.com/promptprophet)
-
-## 🏪 [PromptsIdeas](https://promptsideas.com/profile/promptfast)
+## 🏪 [PromptsIdeas](https://promptsideas.com/profile/promptfast) | [PromptFast](https://promptsideas.com/profile/promptfast) 
 
 ## Examples:
 
