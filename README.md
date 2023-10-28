@@ -44,6 +44,8 @@ Buy more (custom) prompts:
 
 ## 🏪 [PromptsIdeas](https://promptsideas.com/profile/promptfast)
 
+> _[Become an Affiliate Partner](https://promptfast.gumroad.com/affiliates)_
+
 ## 💲 Examples:
 
 ### 📸 [Instagram Ad Generator](https://promptfast.gumroad.com/l/instagram-advertisement-generator)
