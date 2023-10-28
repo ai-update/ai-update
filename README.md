@@ -40,11 +40,11 @@ Buy more (custom) prompts:
 
 ## 🏪 [GumRoad](https://promptfast.gumroad.com)
 
+> 💵 _[Become an Affiliate Partner](https://promptfast.gumroad.com/affiliates)_
+
 ## 🏪 [PromptBase](https://promptbase.com/promptprophet)
 
 ## 🏪 [PromptsIdeas](https://promptsideas.com/profile/promptfast)
-
-> _[Become an Affiliate Partner](https://promptfast.gumroad.com/affiliates)_
 
 ## 💲 Examples:
 
