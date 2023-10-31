@@ -8,6 +8,8 @@ Platforms to follow:
 
 ## 🦣 [Mastodon](https://infosec.exchange/casvanvliet)
 
+## 📺 [YouTube](https://www.youtube.com/@promptfast/)
+
 # Prompts
 
 Free prompts for GPT-3 & GPT-4:
