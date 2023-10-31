@@ -4,11 +4,11 @@
 
 Platforms to follow:
 
+## 📺 [YouTube](https://www.youtube.com/@promptfast/)
+
 ## 🐦 [Twitter](https://twitter.com/promptfast) / [X](https://twitter.com/promptfast)
 
 ## 🦣 [Mastodon](https://infosec.exchange/casvanvliet)
-
-## 📺 [YouTube](https://www.youtube.com/@promptfast/)
 
 # Prompts
 
