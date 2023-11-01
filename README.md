@@ -1,4 +1,4 @@
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/9576a25e-6565-4b8e-8f2a-8d59010661bf)
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/12512d42-e0e2-452a-9d4b-ce683b1cc906)
 
 # Social Media
 
