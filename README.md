@@ -4,7 +4,7 @@
 
 Platforms to follow:
 
-## 📺 [YouTube](https://www.youtube.com/@promptfast/)
+## 📺 [YouTube](https://www.youtube.com/@promptfast/playlists)
 
 ## 🦣 [Mastodon](https://infosec.exchange/casvanvliet)
 
