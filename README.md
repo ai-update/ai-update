@@ -68,6 +68,8 @@ Generate Post Schedules for Instagram:
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/0b5945b3-29cb-4685-9692-b592c2bfd16b)
 
+![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/19f7dc8e-23c1-4160-b6d8-304ab0aaaa5f)
+
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
