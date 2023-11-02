@@ -40,6 +40,8 @@ Free resources for AI:
 
 ### 📚 [AI Guides](https://github.com/cas-van-vliet/ai-guides)
 
+### 🎙️ [AI Podcasts](https://github.com/cas-van-vliet/ai-podcasts)
+
 ### 📺 [AI Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/6cbe0452-11a5-4881-a5e3-e7ae733f3e5c)
