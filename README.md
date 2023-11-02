@@ -10,6 +10,12 @@ Platforms to follow:
 
 ## 🐦 [Twitter](https://twitter.com/promptfast) / [X](https://twitter.com/promptfast)
 
+# Newsletter
+
+Guides, tips & tricks, prompts and more:
+
+## 📨 [Substack](https://casvanvliet.substack.com)
+
 # Prompts
 
 Free prompts for GPT-3 & GPT-4:
@@ -35,10 +41,6 @@ Free resources for AI:
 ## 📺 [A.I. Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/6cbe0452-11a5-4881-a5e3-e7ae733f3e5c)
-
-# Newsletter
-
-## 📨 [Substack](https://casvanvliet.substack.com)
 
 # Webshops
 
