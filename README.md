@@ -36,6 +36,10 @@ Free resources for AI:
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/6cbe0452-11a5-4881-a5e3-e7ae733f3e5c)
 
+# AI Newsletter
+
+## 📨 [Substack](https://casvanvliet.substack.com)
+
 # Webshops
 
 Buy more (custom) prompts:
