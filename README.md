@@ -1,56 +1,58 @@
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/12512d42-e0e2-452a-9d4b-ce683b1cc906)
 
-# Social Media
+# All about Artificial Intelligence (AI) 
 
-Platforms to follow:
-
-## 📺 [YouTube](https://www.youtube.com/@promptfast/playlists)
-
-## 🦣 [Mastodon](https://infosec.exchange/casvanvliet)
-
-## 🐦 [Twitter](https://twitter.com/promptfast) / [X](https://twitter.com/promptfast)
-
-# Newsletter
+## Newsletter
 
 Guides, tips & tricks, prompts and more:
 
-## 📨 [Substack](https://casvanvliet.substack.com)
+### 📨 [Substack](https://casvanvliet.substack.com)
 
-# Prompts
+## Social Media
+
+Platforms to follow:
+
+### 📺 [YouTube](https://www.youtube.com/@promptfast/playlists)
+
+### 🦣 [Mastodon](https://infosec.exchange/casvanvliet)
+
+### 🐦 [Twitter](https://twitter.com/promptfast) / [X](https://twitter.com/promptfast)
+
+## Prompts
 
 Free prompts for GPT-3 & GPT-4:
 
-## 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
+### 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
 
-## 💬 [ChatGPT-4 Prompts](https://github.com/cas-van-vliet/chatgpt-4-prompts)
+### 💬 [ChatGPT-4 Prompts](https://github.com/cas-van-vliet/chatgpt-4-prompts)
 
-## 💬 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
+### 💬 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
 
 > 🆓 _[More Free Prompts for ChatGPT](https://promptfast.gumroad.com/posts)_
 
-# Resources
+## Resources
 
 Free resources for AI:
 
-## 📰 [A.I. News](https://github.com/cas-van-vliet/ai-news)
+### 📰 [A.I. News](https://github.com/cas-van-vliet/ai-news)
 
-## 🔧 [A.I. Tools](https://github.com/cas-van-vliet/ai-tools)
+### 🔧 [A.I. Tools](https://github.com/cas-van-vliet/ai-tools)
 
-## 📚 [A.I. Guides](https://github.com/cas-van-vliet/ai-guides)
+### 📚 [A.I. Guides](https://github.com/cas-van-vliet/ai-guides)
 
-## 📺 [A.I. Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
+### 📺 [A.I. Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/6cbe0452-11a5-4881-a5e3-e7ae733f3e5c)
 
-# Webshops
+## Webshops
 
 Buy more (custom) prompts:
 
-## 🏪 [GumRoad](https://promptfast.gumroad.com) | [PromptFast](https://promptfast.gumroad.com)
+### 🏪 [GumRoad](https://promptfast.gumroad.com) | [PromptFast](https://promptfast.gumroad.com)
 
 > 💵 _[Become an Affiliate Partner](https://promptfast.gumroad.com/affiliates)_
 
-## 🏪 [PromptsIdeas](https://promptsideas.com/profile/promptfast) | [PromptFast](https://promptsideas.com/profile/promptfast) 
+### 🏪 [PromptsIdeas](https://promptsideas.com/profile/promptfast) | [PromptFast](https://promptsideas.com/profile/promptfast) 
 
 ## Examples:
 
