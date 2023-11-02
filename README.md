@@ -34,13 +34,13 @@ Free prompts for GPT-3 & GPT-4:
 
 Free resources for AI:
 
-### 📰 [A.I. News](https://github.com/cas-van-vliet/ai-news)
+### 📰 [AI News](https://github.com/cas-van-vliet/ai-news)
 
-### 🔧 [A.I. Tools](https://github.com/cas-van-vliet/ai-tools)
+### 🔧 [AI Tools](https://github.com/cas-van-vliet/ai-tools)
 
-### 📚 [A.I. Guides](https://github.com/cas-van-vliet/ai-guides)
+### 📚 [AI Guides](https://github.com/cas-van-vliet/ai-guides)
 
-### 📺 [A.I. Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
+### 📺 [AI Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/6cbe0452-11a5-4881-a5e3-e7ae733f3e5c)
 
