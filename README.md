@@ -20,11 +20,15 @@ Platforms to follow:
 
 ## Prompts
 
-Free prompts for GPT-3 & GPT-4:
+Free Prompts for ChatGPT-3.5:
 
 ### 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
 
+Free Prompts for ChatGPT-4.0:
+
 ### 💬 [ChatGPT-4 Prompts](https://github.com/cas-van-vliet/chatgpt-4-prompts)
+
+Free Prompts for Bing Chat:
 
 ### 💬 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
 
@@ -32,7 +36,7 @@ Free prompts for GPT-3 & GPT-4:
 
 ## Resources
 
-Free resources for AI:
+Resources for AI:
 
 ### 📰 [AI News](https://github.com/cas-van-vliet/ai-news)
 
@@ -48,7 +52,7 @@ Free resources for AI:
 
 ## Webshops
 
-Buy more (custom) prompts:
+Buy (custom) Prompts:
 
 ### 🏪 [GumRoad](https://promptfast.gumroad.com) | [PromptFast](https://promptfast.gumroad.com)
 
