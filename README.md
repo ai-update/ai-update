@@ -4,7 +4,7 @@
 
 ## Newsletter
 
-Guides, tips & tricks, prompts and more:
+Guides, Prompts, Tips & Tricks:
 
 ### 📨 [Substack](https://casvanvliet.substack.com)
 
