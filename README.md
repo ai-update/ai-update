@@ -32,8 +32,6 @@ Free Prompts for Bing Chat:
 
 ### 💬 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
 
-_[More Free Prompts for ChatGPT](https://promptfast.gumroad.com/posts)_
-
 ## Resources
 
 Resources for AI:
