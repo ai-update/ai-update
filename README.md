@@ -12,8 +12,6 @@ Guides, Prompts, Tips & Tricks:
 
 Platforms to follow:
 
-### 📺 [YouTube](https://www.youtube.com/@promptfast/playlists)
-
 ### 🦣 [Mastodon](https://infosec.exchange/casvanvliet)
 
 ### 🐦 [Twitter](https://twitter.com/promptfast) / [X](https://twitter.com/promptfast)
