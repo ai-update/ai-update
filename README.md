@@ -34,7 +34,7 @@ Free Prompts for Bing Chat:
 
 ### 📰 [AI News](https://github.com/cas-van-vliet/ai-news)
 
-Publications of Academic Institutions, News Media, Think Tanks and Commercial Enterprises on AI.
+Publications on AI.
 
 ### 🔧 [AI Tools](https://github.com/cas-van-vliet/ai-tools)
 
