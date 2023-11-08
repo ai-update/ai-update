@@ -58,11 +58,13 @@ Documentaries in English, Dutch, and Arabic on AI.
 
 ### 🏪 [GumRoad](https://promptfast.gumroad.com) | [PromptFast](https://promptfast.gumroad.com)
 
-Buy (custom) Prompts.
+Buy (Custom) Prompts, Guides, and More!
 
 > 💵 _[Become an Affiliate Partner](https://promptfast.gumroad.com/affiliates)_
 
 ### 🏪 [PromptsIdeas](https://promptsideas.com/profile/promptfast) | [PromptFast](https://promptsideas.com/profile/promptfast) 
+
+Buy (Custom) Prompts for ChatGPT.
 
 ## Examples:
 
