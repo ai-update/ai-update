@@ -70,9 +70,9 @@ Buy (Custom) Prompts for ChatGPT.
 
 ### 📸 [Instagram Ad Generator](https://promptfast.gumroad.com/l/instagram-advertisement-generator)
 
-Generate Advertisements for Instagram:
-
 **$0.99**
+
+Generate Advertisements for Instagram.
 
 > _Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-advertisement-generator)_
 
@@ -80,9 +80,9 @@ Generate Advertisements for Instagram:
 
 ### 📸 [Instagram Post Planner](https://promptfast.gumroad.com/l/instagram-post-planner)
 
-Generate Post Schedules for Instagram:
-
 **$0.99**
+
+Generate Post Schedules for Instagram.
 
 > _Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-post-planner)_
 
