@@ -32,17 +32,25 @@ Free Prompts for Bing Chat:
 
 ## Resources
 
-Resources for AI:
-
 ### 📰 [AI News](https://github.com/cas-van-vliet/ai-news)
+
+Publications of Academic Institutions, News Media, Think Tanks and Commercial Enterprises on AI.
 
 ### 🔧 [AI Tools](https://github.com/cas-van-vliet/ai-tools)
 
+Tools that make use of AI.
+
 ### 📚 [AI Guides](https://github.com/cas-van-vliet/ai-guides)
+
+Guides on different topics about AI.
 
 ### 🎙️ [AI Podcasts](https://github.com/cas-van-vliet/ai-podcasts)
 
+Podcasts in English, Dutch, and Arabic on AI.
+
 ### 📺 [AI Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
+
+Documentaries in English, Dutch, and Arabic on AI.
 
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/6cbe0452-11a5-4881-a5e3-e7ae733f3e5c)
 
