@@ -56,9 +56,9 @@ Documentaries in English, Dutch, and Arabic on AI.
 
 ## Webshops
 
-Buy (custom) Prompts:
-
 ### 🏪 [GumRoad](https://promptfast.gumroad.com) | [PromptFast](https://promptfast.gumroad.com)
+
+Buy (custom) Prompts.
 
 > 💵 _[Become an Affiliate Partner](https://promptfast.gumroad.com/affiliates)_
 
