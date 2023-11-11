@@ -1,12 +1,12 @@
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/12512d42-e0e2-452a-9d4b-ce683b1cc906)
 
-# Your AI Guide
+# Your Daily Dose of AI
 
 ## Newsletter
 
-Guides, Prompts, Tips & Tricks:
-
 ### 📨 [Substack](https://casvanvliet.substack.com)
+
+Guides, Prompts, Tips & Tricks.
 
 ## Social Media
 
