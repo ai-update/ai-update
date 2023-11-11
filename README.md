@@ -10,8 +10,6 @@ Guides, Prompts, Tips & Tricks.
 
 ## Social Media
 
-Platforms to follow:
-
 ### 🦣 [Mastodon](https://infosec.exchange/casvanvliet)
 
 ### 🐦 [Twitter](https://twitter.com/promptfast) / [X](https://twitter.com/promptfast)
@@ -20,15 +18,15 @@ Platforms to follow:
 
 ### 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
 
-Free Prompts for ChatGPT-3.5.
+**Free Prompts** for ChatGPT-3.5.
 
 ### 💬 [ChatGPT-4 Prompts](https://github.com/cas-van-vliet/chatgpt-4-prompts)
 
-Free Prompts for ChatGPT-4.0.
+**Free Prompts** for ChatGPT-4.0.
 
 ### 💬 [Bing Chat Prompts](https://github.com/cas-van-vliet/bing-chat-prompts)
 
-Free Prompts for Bing Chat.
+**Free Prompts** for Bing Chat.
 
 ## Resources
 
