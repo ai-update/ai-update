@@ -6,7 +6,7 @@
 
 ### 📨 [Substack](https://aiupdate.substack.com)
 
-[Guides](https://casvanvliet.substack.com/p/chatgpt-explained-everything-you) - [Prompts](https://casvanvliet.substack.com/p/free-prompt-collections-for-chatgpt) - [Tips & Tricks](https://casvanvliet.substack.com/p/chatgpts-self-enhancement-automatic)
+[Guides](https://aiupdate.substack.com/p/chatgpt-explained-everything-you) - [Prompts](https://aiupdate.substack.com/p/free-prompt-collections-for-chatgpt) - [Tips & Tricks](https://aiupdate.substack.com/p/chatgpts-self-enhancement-automatic)
 
 ## Social Media
 
