@@ -1,20 +1,26 @@
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/12512d42-e0e2-452a-9d4b-ce683b1cc906)
 
-# UP-TO-DATE ON AI
-
 ## Newsletter
 
-### 📨 [Substack](https://aiupdate.substack.com)
+📨 **[Substack](https://aiupdate.substack.com)**
 
 [Guides](https://aiupdate.substack.com/p/chatgpt-explained-everything-you) - [Prompts](https://aiupdate.substack.com/p/free-prompt-collections-for-chatgpt) - [Tips & Tricks](https://aiupdate.substack.com/p/chatgpts-self-enhancement-automatic)
 
 ## Social Media
 
-### 🦣 [Mastodon](https://infosec.exchange/casvanvliet)
+🦣 **[Mastodon](https://infosec.exchange/casvanvliet)**
 
-### 🐦 [Twitter](https://twitter.com/promptfast) / [X](https://twitter.com/promptfast)
+🐦 **[Twitter](https://twitter.com/promptfast) / [X](https://twitter.com/promptfast)**
 
-## Prompts
+## Webshops
+
+🏪 **[GumRoad](https://promptfast.gumroad.com) | [PromptFast](https://promptfast.gumroad.com)**
+
+> 💵 _[Become an Affiliate Partner](https://promptfast.gumroad.com/affiliates)_
+
+🏪 **[PromptsIdeas](https://promptsideas.com/profile/promptfast)** | **[PromptFast](https://promptsideas.com/profile/promptfast)** 
+
+## Free Prompts
 
 ### 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
 
@@ -49,8 +55,6 @@ Podcasts in English, Dutch, and Arabic on AI.
 ### 📺 [AI Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
 
 Documentaries in English, Dutch, and Arabic on AI.
-
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/6cbe0452-11a5-4881-a5e3-e7ae733f3e5c)
 
 ## Webshops
 
