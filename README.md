@@ -2,23 +2,45 @@
 
 ## Newsletter
 
-📨 **[Substack](https://aiupdate.substack.com)**
+### 📨 **[Substack](https://aiupdate.substack.com)**
 
 [Guides](https://aiupdate.substack.com/p/chatgpt-explained-everything-you) - [Prompts](https://aiupdate.substack.com/p/free-prompt-collections-for-chatgpt) - [Tips & Tricks](https://aiupdate.substack.com/p/chatgpts-self-enhancement-automatic)
 
 ## Social Media
 
-🦣 **[Mastodon](https://infosec.exchange/casvanvliet)**
+### 🦣 **[Mastodon](https://infosec.exchange/casvanvliet)**
 
-🐦 **[Twitter](https://twitter.com/promptfast) / [X](https://twitter.com/promptfast)**
+### 🐦 **[Twitter](https://twitter.com/promptfast) / [X](https://twitter.com/promptfast)**
 
 ## Webshops
 
-🏪 **[GumRoad](https://promptfast.gumroad.com) | [PromptFast](https://promptfast.gumroad.com)**
+### 🏪 **[GumRoad](https://promptfast.gumroad.com) | [PromptFast](https://promptfast.gumroad.com)**
 
-> 💵 _[Become an Affiliate Partner](https://promptfast.gumroad.com/affiliates)_
+### 🏪 **[PromptsIdeas](https://promptsideas.com/profile/promptfast)** | **[PromptFast](https://promptsideas.com/profile/promptfast)** 
 
-🏪 **[PromptsIdeas](https://promptsideas.com/profile/promptfast)** | **[PromptFast](https://promptsideas.com/profile/promptfast)** 
+💵 _[Become an Affiliate Partner](https://promptfast.gumroad.com/affiliates)_
+
+### Examples:
+
+#### 📸 [Instagram Ad Generator](https://promptfast.gumroad.com/l/instagram-advertisement-generator)
+
+Generate Advertisements for Instagram.
+
+**$0.99**
+
+> _Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-advertisement-generator)_
+
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/8f9ee07d-0df2-4d41-a283-0a4e804dee27)
+
+#### 📸 [Instagram Post Planner](https://promptfast.gumroad.com/l/instagram-post-planner)
+
+Generate Post Schedules for Instagram.
+
+**$0.99**
+
+> _Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-post-planner)_
+
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/0b5945b3-29cb-4685-9692-b592c2bfd16b)
 
 ## Free Prompts
 
@@ -55,40 +77,6 @@ Podcasts in English, Dutch, and Arabic on AI.
 ### 📺 [AI Documentaries](https://github.com/cas-van-vliet/ai-documentaries)
 
 Documentaries in English, Dutch, and Arabic on AI.
-
-## Webshops
-
-### 🏪 [GumRoad](https://promptfast.gumroad.com) | [PromptFast](https://promptfast.gumroad.com)
-
-Buy (Custom) Prompts, Guides, and More!
-
-> 💵 _[Become an Affiliate Partner](https://promptfast.gumroad.com/affiliates)_
-
-### 🏪 [PromptsIdeas](https://promptsideas.com/profile/promptfast) | [PromptFast](https://promptsideas.com/profile/promptfast) 
-
-Buy (Custom) Prompts for ChatGPT.
-
-## Examples:
-
-### 📸 [Instagram Ad Generator](https://promptfast.gumroad.com/l/instagram-advertisement-generator)
-
-**$0.99**
-
-Generate Advertisements for Instagram.
-
-> _Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-advertisement-generator)_
-
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/8f9ee07d-0df2-4d41-a283-0a4e804dee27)
-
-### 📸 [Instagram Post Planner](https://promptfast.gumroad.com/l/instagram-post-planner)
-
-**$0.99**
-
-Generate Post Schedules for Instagram.
-
-> _Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-post-planner)_
-
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/0b5945b3-29cb-4685-9692-b592c2bfd16b)
 
 ![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/19f7dc8e-23c1-4160-b6d8-304ab0aaaa5f)
 
