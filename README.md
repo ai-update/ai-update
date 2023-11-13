@@ -1,8 +1,8 @@
 ![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/12512d42-e0e2-452a-9d4b-ce683b1cc906)
 
-## Newsletter
+# Newsletter
 
-### 📨 **[Substack](https://aiupdate.substack.com)**
+## 📨 **[Substack](https://aiupdate.substack.com)**
 
 [Guides](https://aiupdate.substack.com/p/chatgpt-explained-everything-you) - [Prompts](https://aiupdate.substack.com/p/free-prompt-collections-for-chatgpt) - [Tips & Tricks](https://aiupdate.substack.com/p/chatgpts-self-enhancement-automatic)
 
