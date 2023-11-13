@@ -56,7 +56,7 @@ Generate Post Schedules for Instagram.
 
 **Free Prompts** for Bing Chat.
 
-## Resources
+## Free Resources
 
 ### 📰 [AI News](https://github.com/cas-van-vliet/ai-news)
 
