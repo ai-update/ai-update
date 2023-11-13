@@ -20,19 +20,9 @@
 
 💵 _[Become an Affiliate Partner](https://promptfast.gumroad.com/affiliates)_
 
-### Examples:
+### Example:
 
-#### 📸 [Instagram Ad Generator](https://promptfast.gumroad.com/l/instagram-advertisement-generator)
-
-Generate Advertisements for Instagram.
-
-**$0.99**
-
-> _Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-advertisement-generator)_
-
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/8f9ee07d-0df2-4d41-a283-0a4e804dee27)
-
-#### 📸 [Instagram Post Planner](https://promptfast.gumroad.com/l/instagram-post-planner)
+### 📸 [Instagram Post Planner](https://promptfast.gumroad.com/l/instagram-post-planner)
 
 Generate Post Schedules for Instagram.
 
