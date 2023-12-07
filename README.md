@@ -12,26 +12,6 @@
 
 ### 🐦 **[Twitter](https://twitter.com/promptfast) / [X](https://twitter.com/promptfast)**
 
-## Webshops
-
-### 🏪 **[GumRoad](https://promptfast.gumroad.com) | [PromptFast](https://promptfast.gumroad.com)**
-
-### 🏪 **[PromptsIdeas](https://promptsideas.com/profile/promptfast)** | **[PromptFast](https://promptsideas.com/profile/promptfast)** 
-
-💵 _[Become an Affiliate Partner](https://promptfast.gumroad.com/affiliates)_
-
-### Example:
-
-### 📸 [Instagram Post Planner](https://promptfast.gumroad.com/l/instagram-post-planner)
-
-Generate Post Schedules for Instagram.
-
-**$0.99**
-
-> _Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-post-planner)_
-
-![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/0b5945b3-29cb-4685-9692-b592c2bfd16b)
-
 ## Free Prompts
 
 ### 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
@@ -68,7 +48,25 @@ Podcasts in English, Dutch, and Arabic on AI.
 
 Documentaries in English, Dutch, and Arabic on AI.
 
-![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/19f7dc8e-23c1-4160-b6d8-304ab0aaaa5f)
+## Webshops
+
+### 🏪 **[GumRoad](https://promptfast.gumroad.com) | [PromptFast](https://promptfast.gumroad.com)**
+
+### 🏪 **[PromptsIdeas](https://promptsideas.com/profile/promptfast)** | **[PromptFast](https://promptsideas.com/profile/promptfast)** 
+
+💵 _[Become an Affiliate Partner](https://promptfast.gumroad.com/affiliates)_
+
+### Example:
+
+### 📸 [Instagram Post Planner](https://promptfast.gumroad.com/l/instagram-post-planner)
+
+Generate Post Schedules for Instagram.
+
+**$0.99**
+
+> _Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-post-planner)_
+
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/0b5945b3-29cb-4685-9692-b592c2bfd16b)
 
 <!---
 cas-van-vliet/cas-van-vliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
