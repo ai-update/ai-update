@@ -1,3 +1,5 @@
+![logo_cas](https://github.com/ai-update/ai-update/assets/146363448/c3528d60-caa2-42c3-b0dd-7a4b558b0bdb)
+
 # Newsletter
 
 ## 📨 **[Substack](https://aiupdate.substack.com)**
