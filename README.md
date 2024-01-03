@@ -2,6 +2,8 @@
 
 # Newsletter
 
+## 📨 **[Medium](https://ai-update.medium.com)**
+
 ## 📨 **[Substack](https://aiupdate.substack.com)**
 
 [Guides](https://aiupdate.substack.com/p/chatgpt-explained-everything-you) - [Prompts](https://aiupdate.substack.com/p/free-prompt-collections-for-chatgpt) - [Tips & Tricks](https://aiupdate.substack.com/p/chatgpts-self-enhancement-automatic)
