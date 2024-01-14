@@ -12,8 +12,6 @@
 
 ### 🦣 **[Mastodon](https://infosec.exchange/casvanvliet)**
 
-### 🐦 **[Twitter](https://twitter.com/promptfast) / [X](https://twitter.com/promptfast)**
-
 ## Free Prompts
 
 ### 💬 [ChatGPT Prompts](https://github.com/cas-van-vliet/chatgpt-prompts)
