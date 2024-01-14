@@ -1,4 +1,4 @@
-![ailogo_beach](https://github.com/ai-update/ai-update/assets/146363448/054859f2-69f3-45a2-808e-34b259cd9a8a)
+![afbeelding](https://github.com/ai-update/ai-update/assets/146363448/570b6124-111f-483f-90ba-4d39a8c9a54c)
 
 # Newsletter
 
